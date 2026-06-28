@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+datasets/
+venv/
+.venv/
+venv/
+.venv/
+catboost_info/
