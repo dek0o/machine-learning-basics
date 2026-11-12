@@ -1,0 +1,11 @@
+numpy==2.5.2
+pandas==3.0.5
+matplotlib==3.11.1
+torch==2.13.0
+transformers==5.15.1
+datasets==5.0.1
+accelerate==1.14.0
+evaluate==0.4.6
+seqeval==1.2.2
+spacy==3.8.15
+ipywidgets==8.1.5

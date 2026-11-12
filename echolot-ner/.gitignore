@@ -1,0 +1,5 @@
+# Чекпоинты и веса моделей, создаваемые ноутбуком
+bert-ner-*/
+saved_ner_model/
+test_output/
+tmp_eval/
